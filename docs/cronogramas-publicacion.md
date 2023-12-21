@@ -1,17 +1,15 @@
 #Cronogramas de Publicación de Transparencia Activa
 
-A continuación podrán encontrar los cronogramas de publicación bimestrales, hasta enero del año 2020.
+A continuación podrán encontrar los cronogramas de publicación trimestrales, hasta enero del año 2027.
 
 ## abril - mayo
 
-- **EJE RRHH**: Publicación de Escalas salariales y Sueldos de funcionarios Completar información requerida de Concursos.
+- **EJE RRHH**: Publicación de Escalas salariales, Sueldos de funcionarios, Grilla de Autoridades y Funcionarios y Recursos Humanos por género. Completar información requerida de Concursos.
 - **EJE OBRA PÚBLICA**: Completar todos los campos requeridos en PIG para actualizar dataset BA Obras (porcentaje de avance, fecha finalización, pliegos, estado).
-- **EJE PERMISOS**: Publicación de dataset de Habilitaciones en BA Data.
+- **EJE PERMISOS**: Publicación de dataset de Habilitaciones en BA Data y permisos de Uso del Espacio Público.
 
 ## junio - julio
 
-- **EJE NORMATIVA**: Publicación de dictámenes jurídicos en BA Data.
-- **EJE TRÁMITES**: Actualización de todos los trámites del área.
 - **EJE INSTITUCIONAL**: Actualización de web Institucionales hasta nivel DG.
 
 ## Fase de Seguimiento DGSOCAI

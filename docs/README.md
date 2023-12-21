@@ -25,6 +25,6 @@ A continuación, compartimos el listado de Guías de Publicación disponibles ha
   
 # Cronograma de Publicación
 
-En este link [(click aquí)](cronogramas-publicacion.md) pueden consultar el cronorgama bimestral de publicación.
+En este link [(click aquí)](cronogramas-publicacion.md) pueden consultar el cronorgama de publicación.
 
 Por cualquier consulta o sugerencia pueden escribir a [transparencia@buenosaires.gob.ar](mailto:transparencia@buenosaires.gob.ar)

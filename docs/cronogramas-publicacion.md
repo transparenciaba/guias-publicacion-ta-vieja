@@ -25,6 +25,6 @@ A continuación podrán encontrar los cronogramas de publicación trimestrales, 
 - **EJE GESTIÓN**: Actualización y enriquecimiento del dataset Plan de Gobierno en BA Data.
 
 ## diciembre - enero
-- **EJE CONTROL E INTEGRIDAD**: Publicación de Informes Analíticos de auditoría 2018 y primer semestre 2019.
+- **EJE CONTROL E INTEGRIDAD**: Publicación de Informes Analíticos de auditoría 2022 y primer semestre 2023.
 - **EJE CONTROL E INTEGRIDAD**: Publicación de DDJJ de funcionarios hasta nivel de DG y Junta Comunal.
 - **EJE OBRA PÚBLICA**: Publicación de todos los actos administrativos contemplados en el estándar de TA.

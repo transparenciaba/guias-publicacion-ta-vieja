@@ -20,7 +20,7 @@ A continuación podrán encontrar los cronogramas de publicación trimestrales, 
 - **EJE PERMISOS**: Publicación de permisos de uso y concesiones.
 
 ## octubre - noviembre
-- **EJE CONTROL E INTEGRIDAD**: Publicación de Informes Ejecutivos de auditoría 2018.
+- **EJE CONTROL E INTEGRIDAD**: Publicación de Informes Ejecutivos de auditoría .
 - **EJE CONTROL E INTEGRIDAD**: Publicación de DDJJ de funcionarios hasta nivel de Subsecretario.
 - **EJE GESTIÓN**: Actualización y enriquecimiento del dataset Plan de Gobierno en BA Data.
 
